@@ -1,0 +1,13 @@
+.create-post_form {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 500px;
+    /* background-color: #94b8ec; */
+}
+.create-post_city_adress {
+    display: flex;
+    justify-content: space-between;
+    
+}
